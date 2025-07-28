@@ -39,7 +39,6 @@
 - **Sincronismo**:
   - Relógio
   - Monitor ou Semáforo
-  - (Outro mecanismo não especificado)
 - **Tolerância a falhas**
 
 ### Sistemas Paralelos
